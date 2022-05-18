@@ -1,2 +1,2 @@
 # IntroToProg-Python
-This Rep. will be used to for reviewing homework files
+IT FDN 110 (Spring 2022) 
